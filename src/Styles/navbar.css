@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.myNav{
+    width:100%;
+    height:auto;
+    flex:1;
+    position:sticky;
+}
+.logo h1{
+ padding-left:60px;
+ font-weight: bolder;
+ font-size:80px;
+}
+.list{
+    margin-top:40px;
+    flex:1;
+    list-style: none;
+}
+.basket{
+    margin-top:40px;
+}
+
+.listItem{
+    padding:35px;
+    font-weight: lighter;
+    border:1px solid white;
+   
+}
